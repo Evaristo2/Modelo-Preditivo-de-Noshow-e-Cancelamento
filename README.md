@@ -7,4 +7,4 @@ O algoritmo escolhido foi o RandomForest. Como feature, foi utilizado o score do
 com isso, chegamos no resultado seguinte de matriz confusão:
 ![image](https://github.com/user-attachments/assets/b97fc0ee-a8c3-4746-846f-8ec54df5dd7d)
 
-O modelo está em produção na minha empresa e atua diretamente em um robo, feito no BigQuery com Procedures, que faz a disponibilidade da frota.
+O modelo está em produção na minha empresa e atua diretamente em um robô, feito no BigQuery com Procedures, que faz a disponibilidade da frota.
